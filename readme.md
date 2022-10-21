@@ -15,4 +15,4 @@
 
 >Ideal to view in 1170 * 842
     
-[Netlify Live]( https://resturent-page.netlify.app/)
+[Netlify Live]( https://home-page-law.netlify.app/)
