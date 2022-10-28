@@ -1,4 +1,4 @@
-# Resturent Law Home Page
+# Law Home Page
 >Designed By : Krishnendu Narayan.
 
 <u> Discription: </u> Its A Static Resturent Home Page.
